@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="101" viewBox="0 0 140 101">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #284737;
+      }
+
+      .cls-2 {
+        fill: #447551;
+      }
+
+      .cls-3 {
+        fill: #9ac67a;
+      }
+
+      .cls-4 {
+        fill: #cae0a3;
+      }
+
+      .cls-5 {
+        fill: #69a261;
+      }
+
+      .cls-6 {
+        font-size: 88px;
+        font-family: FZJCXS;
+      }
+
+      .cls-7 {
+        font-size: 20px;
+        font-family: FZXS18--GB1-0, FZXS18;
+      }
+
+      .cls-8 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: square;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="导航栏" transform="translate(-15 16)">
+    <g id="树林" transform="translate(-1427.901 -1038.533)">
+      <rect id="矩形_620" data-name="矩形 620" class="cls-1" width="2.222" height="2.222" transform="translate(1503.79 1077.978)"/>
+      <rect id="矩形_621" data-name="矩形 621" class="cls-2" width="2.222" height="2.222" transform="translate(1501.568 1080.2)"/>
+      <rect id="矩形_622" data-name="矩形 622" class="cls-3" width="2.222" height="2.222" transform="translate(1503.79 1080.2)"/>
+      <rect id="矩形_623" data-name="矩形 623" class="cls-1" width="2.222" height="2.222" transform="translate(1506.012 1080.2)"/>
+      <rect id="矩形_624" data-name="矩形 624" class="cls-2" width="2.222" height="2.222" transform="translate(1499.346 1082.422)"/>
+      <rect id="矩形_625" data-name="矩形 625" class="cls-3" width="2.222" height="2.222" transform="translate(1501.568 1082.422)"/>
+      <rect id="矩形_626" data-name="矩形 626" class="cls-4" width="2.222" height="2.222" transform="translate(1503.79 1082.422)"/>
+      <rect id="矩形_627" data-name="矩形 627" class="cls-5" width="2.222" height="2.222" transform="translate(1506.012 1082.422)"/>
+      <rect id="矩形_628" data-name="矩形 628" class="cls-1" width="2.222" height="2.222" transform="translate(1508.235 1082.422)"/>
+      <rect id="矩形_629" data-name="矩形 629" class="cls-2" width="2.222" height="2.222" transform="translate(1497.124 1084.644)"/>
+      <rect id="矩形_630" data-name="矩形 630" class="cls-5" width="2.222" height="2.222" transform="translate(1499.346 1084.644)"/>
+      <rect id="矩形_631" data-name="矩形 631" class="cls-3" width="2.222" height="2.222" transform="translate(1501.568 1084.644)"/>
+      <rect id="矩形_632" data-name="矩形 632" class="cls-4" width="2.222" height="2.222" transform="translate(1503.79 1084.644)"/>
+      <rect id="矩形_633" data-name="矩形 633" class="cls-5" width="2.222" height="2.222" transform="translate(1506.012 1084.644)"/>
+      <rect id="矩形_634" data-name="矩形 634" class="cls-2" width="2.222" height="2.222" transform="translate(1508.235 1084.644)"/>
+      <rect id="矩形_635" data-name="矩形 635" class="cls-1" width="2.222" height="2.222" transform="translate(1510.457 1084.644)"/>
+      <rect id="矩形_636" data-name="矩形 636" class="cls-2" width="2.222" height="2.222" transform="translate(1497.124 1086.866)"/>
+      <rect id="矩形_637" data-name="矩形 637" class="cls-3" width="2.222" height="2.222" transform="translate(1499.346 1086.866)"/>
+      <rect id="矩形_638" data-name="矩形 638" class="cls-5" width="2.222" height="2.222" transform="translate(1501.568 1086.866)"/>
+      <rect id="矩形_639" data-name="矩形 639" class="cls-4" width="2.222" height="2.222" transform="translate(1503.79 1086.866)"/>
+      <rect id="矩形_640" data-name="矩形 640" class="cls-2" width="2.222" height="2.222" transform="translate(1506.012 1086.866)"/>
+      <rect id="矩形_641" data-name="矩形 641" class="cls-5" width="2.222" height="2.222" transform="translate(1508.235 1086.866)"/>
+      <rect id="矩形_642" data-name="矩形 642" class="cls-1" width="2.222" height="2.222" transform="translate(1510.457 1086.866)"/>
+      <rect id="矩形_643" data-name="矩形 643" class="cls-2" width="2.222" height="2.222" transform="translate(1494.901 1089.089)"/>
+      <rect id="矩形_644" data-name="矩形 644" class="cls-5" width="2.222" height="2.222" transform="translate(1497.124 1089.089)"/>
+      <rect id="矩形_645" data-name="矩形 645" class="cls-3" width="2.222" height="2.222" transform="translate(1499.346 1089.089)"/>
+      <rect id="矩形_646" data-name="矩形 646" class="cls-3" width="2.222" height="2.222" transform="translate(1501.568 1089.089)"/>
+      <rect id="矩形_647" data-name="矩形 647" class="cls-4" width="2.222" height="2.222" transform="translate(1503.79 1089.089)"/>
+      <rect id="矩形_648" data-name="矩形 648" class="cls-5" width="2.222" height="2.222" transform="translate(1506.012 1089.089)"/>
+      <rect id="矩形_649" data-name="矩形 649" class="cls-5" width="2.222" height="2.222" transform="translate(1508.235 1089.089)"/>
+      <rect id="矩形_650" data-name="矩形 650" class="cls-2" width="2.222" height="2.222" transform="translate(1510.457 1089.089)"/>
+      <rect id="矩形_651" data-name="矩形 651" class="cls-1" width="2.222" height="2.222" transform="translate(1512.679 1089.089)"/>
+      <rect id="矩形_652" data-name="矩形 652" class="cls-2" width="2.222" height="2.222" transform="translate(1494.901 1091.311)"/>
+      <rect id="矩形_653" data-name="矩形 653" class="cls-3" width="2.222" height="2.222" transform="translate(1497.124 1091.311)"/>
+      <rect id="矩形_654" data-name="矩形 654" class="cls-5" width="2.222" height="2.222" transform="translate(1499.346 1091.311)"/>
+      <rect id="矩形_655" data-name="矩形 655" class="cls-3" width="2.222" height="2.222" transform="translate(1501.568 1091.311)"/>
+      <rect id="矩形_656" data-name="矩形 656" class="cls-4" width="2.222" height="2.222" transform="translate(1503.79 1091.311)"/>
+      <rect id="矩形_657" data-name="矩形 657" class="cls-5" width="2.222" height="2.222" transform="translate(1506.012 1091.311)"/>
+      <rect id="矩形_658" data-name="矩形 658" class="cls-2" width="2.222" height="2.222" transform="translate(1508.235 1091.311)"/>
+      <rect id="矩形_659" data-name="矩形 659" class="cls-5" width="2.222" height="2.222" transform="translate(1510.457 1091.311)"/>
+      <rect id="矩形_660" data-name="矩形 660" class="cls-1" width="2.222" height="2.222" transform="translate(1512.679 1091.311)"/>
+      <rect id="矩形_661" data-name="矩形 661" class="cls-2" width="2.222" height="2.222" transform="translate(1494.901 1093.533)"/>
+      <rect id="矩形_662" data-name="矩形 662" class="cls-3" width="2.222" height="2.222" transform="translate(1497.124 1093.533)"/>
+      <rect id="矩形_663" data-name="矩形 663" class="cls-3" width="2.222" height="2.222" transform="translate(1499.346 1093.533)"/>
+      <rect id="矩形_664" data-name="矩形 664" class="cls-5" width="2.222" height="2.222" transform="translate(1501.568 1093.533)"/>
+      <rect id="矩形_665" data-name="矩形 665" class="cls-4" width="2.222" height="2.222" transform="translate(1503.79 1093.533)"/>
+      <rect id="矩形_666" data-name="矩形 666" class="cls-2" width="2.222" height="2.222" transform="translate(1506.012 1093.533)"/>
+      <rect id="矩形_667" data-name="矩形 667" class="cls-5" width="2.222" height="2.222" transform="translate(1508.235 1093.533)"/>
+      <rect id="矩形_668" data-name="矩形 668" class="cls-5" width="2.222" height="2.222" transform="translate(1510.457 1093.533)"/>
+      <rect id="矩形_669" data-name="矩形 669" class="cls-1" width="2.222" height="2.222" transform="translate(1512.679 1093.533)"/>
+      <rect id="矩形_670" data-name="矩形 670" class="cls-1" width="2.222" height="2.222" transform="translate(1494.901 1095.755)"/>
+      <rect id="矩形_671" data-name="矩形 671" class="cls-5" width="2.222" height="2.222" transform="translate(1497.124 1095.755)"/>
+      <rect id="矩形_672" data-name="矩形 672" class="cls-3" width="2.222" height="2.222" transform="translate(1499.346 1095.755)"/>
+      <rect id="矩形_673" data-name="矩形 673" class="cls-3" width="2.222" height="2.222" transform="translate(1501.568 1095.755)"/>
+      <rect id="矩形_674" data-name="矩形 674" class="cls-4" width="2.222" height="2.222" transform="translate(1503.79 1095.755)"/>
+      <rect id="矩形_675" data-name="矩形 675" class="cls-5" width="2.222" height="2.222" transform="translate(1506.012 1095.755)"/>
+      <rect id="矩形_676" data-name="矩形 676" class="cls-5" width="2.222" height="2.222" transform="translate(1508.235 1095.755)"/>
+      <rect id="矩形_677" data-name="矩形 677" class="cls-2" width="2.222" height="2.222" transform="translate(1510.457 1095.755)"/>
+      <rect id="矩形_678" data-name="矩形 678" class="cls-1" width="2.222" height="2.222" transform="translate(1512.679 1095.755)"/>
+      <rect id="矩形_679" data-name="矩形 679" class="cls-1" width="2.222" height="2.222" transform="translate(1494.901 1097.978)"/>
+      <rect id="矩形_680" data-name="矩形 680" class="cls-3" width="2.222" height="2.222" transform="translate(1497.124 1097.978)"/>
+      <rect id="矩形_681" data-name="矩形 681" class="cls-5" width="2.222" height="2.222" transform="translate(1499.346 1097.978)"/>
+      <rect id="矩形_682" data-name="矩形 682" class="cls-3" width="2.222" height="2.222" transform="translate(1501.568 1097.978)"/>
+      <rect id="矩形_683" data-name="矩形 683" class="cls-4" width="2.222" height="2.222" transform="translate(1503.79 1097.978)"/>
+      <rect id="矩形_684" data-name="矩形 684" class="cls-5" width="2.222" height="2.222" transform="translate(1506.012 1097.978)"/>
+      <rect id="矩形_685" data-name="矩形 685" class="cls-2" width="2.222" height="2.222" transform="translate(1508.235 1097.978)"/>
+      <rect id="矩形_686" data-name="矩形 686" class="cls-5" width="2.222" height="2.222" transform="translate(1510.457 1097.978)"/>
+      <rect id="矩形_687" data-name="矩形 687" class="cls-2" width="2.222" height="2.222" transform="translate(1512.679 1097.978)"/>
+      <rect id="矩形_688" data-name="矩形 688" class="cls-1" width="2.222" height="2.222" transform="translate(1497.124 1100.2)"/>
+      <rect id="矩形_689" data-name="矩形 689" class="cls-3" width="2.222" height="2.222" transform="translate(1499.346 1100.2)"/>
+      <rect id="矩形_690" data-name="矩形 690" class="cls-5" width="2.222" height="2.222" transform="translate(1501.568 1100.2)"/>
+      <rect id="矩形_691" data-name="矩形 691" class="cls-4" width="2.222" height="2.222" transform="translate(1503.79 1100.2)"/>
+      <rect id="矩形_692" data-name="矩形 692" class="cls-2" width="2.222" height="2.222" transform="translate(1506.012 1100.2)"/>
+      <rect id="矩形_693" data-name="矩形 693" class="cls-5" width="2.222" height="2.222" transform="translate(1508.235 1100.2)"/>
+      <rect id="矩形_694" data-name="矩形 694" class="cls-2" width="2.222" height="2.222" transform="translate(1510.457 1100.2)"/>
+      <rect id="矩形_695" data-name="矩形 695" class="cls-1" width="2.222" height="2.222" transform="translate(1497.124 1102.422)"/>
+      <rect id="矩形_696" data-name="矩形 696" class="cls-3" width="2.222" height="2.222" transform="translate(1499.346 1102.422)"/>
+      <rect id="矩形_697" data-name="矩形 697" class="cls-3" width="2.222" height="2.222" transform="translate(1501.568 1102.422)"/>
+      <rect id="矩形_698" data-name="矩形 698" class="cls-4" width="2.222" height="2.222" transform="translate(1503.79 1102.422)"/>
+      <rect id="矩形_699" data-name="矩形 699" class="cls-5" width="2.222" height="2.222" transform="translate(1506.012 1102.422)"/>
+      <rect id="矩形_700" data-name="矩形 700" class="cls-5" width="2.222" height="2.222" transform="translate(1508.235 1102.422)"/>
+      <rect id="矩形_701" data-name="矩形 701" class="cls-2" width="2.222" height="2.222" transform="translate(1510.457 1102.422)"/>
+      <rect id="矩形_702" data-name="矩形 702" class="cls-1" width="2.222" height="2.222" transform="translate(1499.346 1104.644)"/>
+      <rect id="矩形_703" data-name="矩形 703" class="cls-3" width="2.222" height="2.222" transform="translate(1501.568 1104.644)"/>
+      <rect id="矩形_704" data-name="矩形 704" class="cls-4" width="2.222" height="2.222" transform="translate(1503.79 1104.644)"/>
+      <rect id="矩形_705" data-name="矩形 705" class="cls-5" width="2.222" height="2.222" transform="translate(1506.012 1104.644)"/>
+      <rect id="矩形_706" data-name="矩形 706" class="cls-2" width="2.222" height="2.222" transform="translate(1508.235 1104.644)"/>
+      <rect id="矩形_707" data-name="矩形 707" class="cls-1" width="2.222" height="2.222" transform="translate(1501.568 1106.866)"/>
+      <rect id="矩形_708" data-name="矩形 708" class="cls-3" width="2.222" height="2.222" transform="translate(1503.79 1106.866)"/>
+      <rect id="矩形_709" data-name="矩形 709" class="cls-2" width="2.222" height="2.222" transform="translate(1506.012 1106.866)"/>
+      <rect id="矩形_710" data-name="矩形 710" class="cls-1" width="2.222" height="2.222" transform="translate(1503.79 1109.089)"/>
+      <rect id="矩形_711" data-name="矩形 711" class="cls-1" width="2.222" height="2.222" transform="translate(1503.79 1111.311)"/>
+    </g>
+    <text id="树林-2" data-name="树林" class="cls-6" transform="translate(67 72)"><tspan x="0" y="0">树林</tspan></text>
+    <g id="趣记两个字">
+      <text id="趣记" class="cls-7" transform="translate(15 73)"><tspan x="0" y="0">趣记</tspan></text>
+      <line id="直线_1" data-name="直线 1" class="cls-8" x2="71" transform="translate(75.5 75.5)"/>
+    </g>
+  </g>
+</svg>

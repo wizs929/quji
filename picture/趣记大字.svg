@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="78" height="80" viewBox="0 0 78 100">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 5.5rem;
+        font-family: FZJCXS;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: square;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="趣记两个字" transform="translate(-15 15)">
+    <text id="趣记" class="cls-1" transform="translate(15 73)"><tspan x="0" y="0">趣记</tspan></text>
+    <line id="直线_1" data-name="直线 1" class="cls-2" x2="71" transform="translate(18.5 75.5)"/>
+  </g>
+</svg>

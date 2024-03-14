@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="315" height="291" viewBox="0 0 315 291">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5ac5a0;
+      }
+
+      .cls-2 {
+        fill: #96c55a;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #303030;
+      }
+
+      .cls-3 {
+        font-size: 100px;
+        font-family: FZJCXS;
+      }
+
+      .cls-4 {
+        font-size: 16px;
+        font-family: FZXS18--GB1-0, FZXS18;
+      }
+    </style>
+  </defs>
+  <g id="内容" transform="translate(-30 -289)">
+    <rect id="矩形_4212" data-name="矩形 4212" class="cls-1" width="30" height="8" transform="translate(198 543)"/>
+    <rect id="矩形_4213" data-name="矩形 4213" class="cls-1" width="30" height="8" transform="translate(148 423)"/>
+    <rect id="矩形_4214" data-name="矩形 4214" class="cls-1" width="30" height="8" transform="translate(198 423)"/>
+    <rect id="矩形_4210" data-name="矩形 4210" class="cls-2" width="212" height="19" transform="translate(82 369)"/>
+    <g id="产品概念">
+      <text id="一_产品概念" data-name="一、产品概念" class="cls-3" transform="translate(80 289)"><tspan x="0" y="100">一、产品概念</tspan></text>
+      <text id="为用户提供高效而有趣的记录工具" class="cls-4" transform="translate(30 418)"><tspan x="-120" y="14">为用户提供高效而有趣的记录工具</tspan></text>
+    </g>
+    <rect id="矩形_4211" data-name="矩形 4211" class="cls-2" width="212" height="19" transform="translate(82 491)"/>
+    <g id="产品形态" transform="translate(0 120)">
+      <text id="二_产品形态" data-name="二、产品形态" class="cls-3" transform="translate(80 289)"><tspan x="0" y="100">二、产品形态</tspan></text>
+      <text id="本产品为APP_用户可以通过应用商城或官网搜索下载_" data-name="本产品为APP，
+用户可以通过应用商城或官网搜索下载。" class="cls-4" transform="translate(30 418)"><tspan x="-52" y="14">本产品为APP，</tspan><tspan x="-144" y="39">用户可以通过应用商城或官网搜索下载。</tspan></text>
+    </g>
+  </g>
+</svg>

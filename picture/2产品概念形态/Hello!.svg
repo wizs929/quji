@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="187" height="234" viewBox="0 0 187 234">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #303030;
+        font-size: 203px;
+        font-family: FZJCXS;
+      }
+    </style>
+  </defs>
+  <text id="Hello_" data-name="Hello!" class="cls-1" transform="translate(0 204)"><tspan x="0" y="0">Hello!</tspan></text>
+</svg>

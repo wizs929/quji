@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="32" viewBox="0 0 45 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #303030;
+        opacity: 0.69;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="上一步" transform="translate(-235 -120.718)">
+    <rect id="矩形_8146" data-name="矩形 8146" class="cls-1" width="45" height="32" rx="15" transform="translate(235 120.718)"/>
+    <path id="返回" class="cls-2" d="M14.489,14.489H9.659V9.659h4.83Zm4.83-4.83h-4.83V4.83h4.83Zm4.83-4.83h-4.83V0h4.83ZM9.659,9.659H4.83V4.83h4.83ZM4.83,4.83H0V0H4.83Z" transform="translate(269.791 144.103) rotate(180)"/>
+  </g>
+</svg>

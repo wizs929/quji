@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.621" height="29.369" viewBox="0 0 17.621 29.369">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #515151;
+      }
+    </style>
+  </defs>
+  <path id="返回" class="cls-1" d="M17.621,17.621H11.747V11.747h5.874Zm5.874-5.874H17.621V5.874h5.874Zm5.874-5.874H23.495V0h5.874ZM11.747,11.747H5.874V5.874h5.874ZM5.874,5.874H0V0H5.874Z" transform="translate(17.621) rotate(90)"/>
+</svg>

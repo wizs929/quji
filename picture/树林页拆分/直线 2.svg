@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="342" height="1" viewBox="0 0 342 1">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #707070;
+        opacity: 0.36;
+      }
+    </style>
+  </defs>
+  <line id="直线_2" data-name="直线 2" class="cls-1" x2="342" transform="translate(0 0.5)"/>
+</svg>
